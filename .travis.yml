@@ -12,8 +12,8 @@ before_install:
 
 install:
   - pip install --upgrade pip
-  - if [[$TRAVIS_PYTHON_VERSION == 3.3]]; then pip install numpy==1.9.2 pandas==0.16.2; fi
-  - if [[$TRAVIS_PYTHON_VERSION == 3.4]]; then pip install numpy==1.11.3 pandas==0.19.2; fi
+  - if [[ $TRAVIS_PYTHON_VERSION == 3.3 ]]; then pip install numpy==1.9.2 pandas==0.16.2; fi
+  - if [[ $TRAVIS_PYTHON_VERSION == 3.4 ]]; then pip install numpy==1.11.3 pandas==0.19.2; fi
   - pip install -r requirements.txt
   - pip install .
   - pip install codecov
