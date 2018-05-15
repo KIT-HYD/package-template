@@ -1,0 +1,8 @@
+ipython>=6
+autoapi
+numpydoc
+sphinx_rtd_theme
+numpy>=0.12
+pandas>=0.20
+matplotlib
+nose>=1.3
