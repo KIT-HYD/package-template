@@ -2,11 +2,10 @@
 
 [![Build Status](https://travis-ci.org/KIT-HYD/package-template.svg?branch=master)](https://travis-ci.org/KIT-HYD/package-template)
 <hr>
-
-<div class="alert alert-warning">The audience for this project is the 
-[Hydrology group at KIT](https://hyd.iwg.kit.edu). However this is simply a 
+The audience for this project is the 
+Hydrology group at KIT (https://hyd.iwg.kit.edu). However this is simply a 
 setuptools driven project template, which can be used for any purpose.
-</div><hr>
+<hr>
 This template can be used to publish your own Python code and make it usable 
 in other projects. Following this template your own code will:
 
