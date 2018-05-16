@@ -103,3 +103,6 @@ ENV/
 # Project specific files:
 # Ignore Pycharm project files
 .idea
+
+# ignore the _build folder in the docs
+_build/

@@ -1,11 +1,15 @@
 # package-template
 
 [![Build Status](https://travis-ci.org/KIT-HYD/package-template.svg?branch=master)](https://travis-ci.org/KIT-HYD/package-template)
+[![Documentation Status](https://readthedocs.org/projects/hyd-template/badge/?version=latest)](http://hyd-template.readthedocs.io/en/latest/?badge=latest)
+
 <hr>
 The audience for this project is the 
 Hydrology group at KIT (https://hyd.iwg.kit.edu). However this is simply a 
 setuptools driven project template, which can be used for any purpose.
 <hr>
+The documentation can be found at: http://hyd-template.readthedocs.io <br>
+<br>
 This template can be used to publish your own Python code and make it usable 
 in other projects. Following this template your own code will:
 
