@@ -12,6 +12,9 @@ Welcome to package Template's documentation!
 .. image:: https://readthedocs.org/projects/hyd-template/badge/?version=latest
     :target: http://hyd-template.readthedocs.io/en/latest/?badge=latest
 
+.. image:: https://codecov.io/gh/KIT-HYD/package-template/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/KIT-HYD/package-template
+
 This is an example documentation for the package-template_ GitHub project.
 This is meant to be overwritten by the documentation for your code.
 Go to the :doc:`Howto Guide </howto>` to learn how to copy this template.
@@ -21,9 +24,10 @@ navigate this documentation to see some example pages.
 .. _package-template: https://github.com/KIT-HYD/package-template
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: Contents:
 
     installation
     howto
+    integration/integration
     reference

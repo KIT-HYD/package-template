@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/KIT-HYD/package-template.svg?branch=master)](https://travis-ci.org/KIT-HYD/package-template)
 [![Documentation Status](https://readthedocs.org/projects/hyd-template/badge/?version=latest)](http://hyd-template.readthedocs.io/en/latest/?badge=latest)
+[![codecov](https://codecov.io/gh/KIT-HYD/package-template/branch/master/graph/badge.svg)](https://codecov.io/gh/KIT-HYD/package-template)
 
 <hr>
 The audience for this project is the 

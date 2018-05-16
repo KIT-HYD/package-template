@@ -2,6 +2,9 @@
 Use the Template
 ================
 
+.. toctree::
+    :maxdepth: 2
+
 .. _howto:
 
 How to use this template
@@ -69,7 +72,7 @@ After unzipping the package-template you will find a folder called
 folder into your newly created github project directory.
 Depending on the repository you chose, this project might already contain a
 ``README.md``, ``LICENSE`` and definitely a ``.gitignore`` file. Make sure to
- replace these files with the versions from ``package-template-master``.
+replace these files with the versions from ``package-template-master``.
 
 Commit changes
 ==============
@@ -111,9 +114,19 @@ Finally, push the commit to the master branch.
 
     git push
 
-PyPI
-====
+Integrations
+============
 
-.. todo::
+This far, you jst set up a GitHub (or gitlab, bitbucket) repository and
+copied the template files into your project.
+The main purpose of the template is to make the integration of your project
+into helpful developer tools easier. But you will usually have to sign up for
+thrid party services. Luckily you can use your GitHub account for most
+services, with the exception of PyPI.
 
-    Write this section
+.. seealso::
+
+    Refer to the following pages to get started with the different developer
+    tools:
+
+        * :doc:`Python Package Index </integration/pypi>`
